@@ -1,4 +1,4 @@
-# GeoTrack
+# Locify
 
 GeoTrack is a real-time geolocation tracking application that visualizes user locations on a dynamic map. Built using Leaflet for mapping and Socket.io for real-time updates, this application offers a seamless experience for tracking and displaying multiple users' locations.
 
